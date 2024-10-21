@@ -8,3 +8,6 @@ TODO:
             - ou Usar S3 para evitar erros de chaves;
     - Verificar melhor forma de lhe dar com password do RDS:
         - Usar o Secret Manager;
+
+<!--- BEGIN_TF_DOCS ---> 
+<!--- END_TF_DOCS --->
