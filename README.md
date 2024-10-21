@@ -1,4 +1,4 @@
-# luiznunescruz-terraform-aws-rds-copy-cross-account
+# luiznunescruz-terraform-aws-rds-copy
 Módulo Terraform para realizar a cópia de bancos de dados RDS.
 
 TODO:
